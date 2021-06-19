@@ -36,6 +36,13 @@ const characters = [
     age: 55,
     forcePoints: 1350,
   },
+  {
+    routeName: 'person',
+    name: 'person',
+    role: 'person',
+    age: 55,
+    forcePoints: 1350,
+  },
 ];
 
 // Routes
